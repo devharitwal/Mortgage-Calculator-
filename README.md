@@ -13,7 +13,7 @@ If you have any feedback, please reach out to me at https://www.linkedin.com/in/
 ## FAQ
 
 #### How to run?
-Clone the repo and run the app, you are good to go. 
+Clone the repo, compile the app.  
 
 
 
